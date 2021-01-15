@@ -1,9 +1,0 @@
-
-The following files have been resolved:
-   com.fasterxml.jackson.core:jackson-databind:jar:2.7.3:compile:C:\Users\Ouichka\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.7.3\jackson-databind-2.7.3.jar
-   org.apache.logging.log4j:log4j-api:jar:2.6.2:compile:C:\Users\Ouichka\.m2\repository\org\apache\logging\log4j\log4j-api\2.6.2\log4j-api-2.6.2.jar
-   com.fasterxml.jackson.core:jackson-annotations:jar:2.7.0:compile:C:\Users\Ouichka\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.7.0\jackson-annotations-2.7.0.jar
-   com.fasterxml.jackson.module:jackson-module-afterburner:jar:2.7.3:compile:C:\Users\Ouichka\.m2\repository\com\fasterxml\jackson\module\jackson-module-afterburner\2.7.3\jackson-module-afterburner-2.7.3.jar
-   com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.7.3:compile:C:\Users\Ouichka\.m2\repository\com\fasterxml\jackson\dataformat\jackson-dataformat-cbor\2.7.3\jackson-dataformat-cbor-2.7.3.jar
-   com.fasterxml.jackson.core:jackson-core:jar:2.7.3:compile:C:\Users\Ouichka\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.7.3\jackson-core-2.7.3.jar
-
