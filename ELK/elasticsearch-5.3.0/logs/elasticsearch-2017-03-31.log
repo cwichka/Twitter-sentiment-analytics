@@ -1,0 +1,57 @@
+[2017-03-31T23:21:13,920][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-03-31T23:21:14,630][INFO ][o.e.e.NodeEnvironment    ] [SZUZuRF] using [1] data paths, mounts [[(C:)]], net usable_space [750.9gb], net total_space [872.4gb], spins? [unknown], types [NTFS]
+[2017-03-31T23:21:14,631][INFO ][o.e.e.NodeEnvironment    ] [SZUZuRF] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-03-31T23:21:14,637][INFO ][o.e.n.Node               ] node name [SZUZuRF] derived from node ID [SZUZuRFIRCeflnm86OQeLQ]; set [node.name] to override
+[2017-03-31T23:21:14,637][INFO ][o.e.n.Node               ] version[5.3.0], pid[9868], build[3adb13b/2017-03-23T03:31:50.652Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_121/25.121-b13]
+[2017-03-31T23:21:17,440][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [aggs-matrix-stats]
+[2017-03-31T23:21:17,445][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [ingest-common]
+[2017-03-31T23:21:17,446][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-expression]
+[2017-03-31T23:21:17,447][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-groovy]
+[2017-03-31T23:21:17,447][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-mustache]
+[2017-03-31T23:21:17,448][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-painless]
+[2017-03-31T23:21:17,448][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [percolator]
+[2017-03-31T23:21:17,450][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [reindex]
+[2017-03-31T23:21:17,453][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [transport-netty3]
+[2017-03-31T23:21:17,455][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [transport-netty4]
+[2017-03-31T23:21:17,456][INFO ][o.e.p.PluginsService     ] [SZUZuRF] no plugins loaded
+[2017-03-31T23:21:22,879][INFO ][o.e.n.Node               ] initialized
+[2017-03-31T23:21:22,879][INFO ][o.e.n.Node               ] [SZUZuRF] starting ...
+[2017-03-31T23:21:24,872][INFO ][o.e.t.TransportService   ] [SZUZuRF] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2017-03-31T23:21:27,953][INFO ][o.e.c.s.ClusterService   ] [SZUZuRF] new_master {SZUZuRF}{SZUZuRFIRCeflnm86OQeLQ}{suAVWtl6TMGvXuKGMk-_hA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-03-31T23:21:28,148][INFO ][o.e.g.GatewayService     ] [SZUZuRF] recovered [0] indices into cluster_state
+[2017-03-31T23:21:28,921][INFO ][o.e.h.n.Netty4HttpServerTransport] [SZUZuRF] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2017-03-31T23:21:28,938][INFO ][o.e.n.Node               ] [SZUZuRF] started
+[2017-03-31T23:27:35,288][INFO ][o.e.n.Node               ] [SZUZuRF] stopping ...
+[2017-03-31T23:27:35,311][INFO ][o.e.n.Node               ] [SZUZuRF] stopped
+[2017-03-31T23:27:35,311][INFO ][o.e.n.Node               ] [SZUZuRF] closing ...
+[2017-03-31T23:27:35,326][INFO ][o.e.n.Node               ] [SZUZuRF] closed
+[2017-03-31T23:32:07,982][INFO ][o.e.n.Node               ] [] initializing ...
+[2017-03-31T23:32:08,339][INFO ][o.e.e.NodeEnvironment    ] [SZUZuRF] using [1] data paths, mounts [[(C:)]], net usable_space [750.9gb], net total_space [872.4gb], spins? [unknown], types [NTFS]
+[2017-03-31T23:32:08,349][INFO ][o.e.e.NodeEnvironment    ] [SZUZuRF] heap size [1.9gb], compressed ordinary object pointers [true]
+[2017-03-31T23:32:08,363][INFO ][o.e.n.Node               ] node name [SZUZuRF] derived from node ID [SZUZuRFIRCeflnm86OQeLQ]; set [node.name] to override
+[2017-03-31T23:32:08,366][INFO ][o.e.n.Node               ] version[5.3.0], pid[4232], build[3adb13b/2017-03-23T03:31:50.652Z], OS[Windows 10/10.0/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_121/25.121-b13]
+[2017-03-31T23:32:10,461][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [aggs-matrix-stats]
+[2017-03-31T23:32:10,462][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [ingest-common]
+[2017-03-31T23:32:10,462][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-expression]
+[2017-03-31T23:32:10,463][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-groovy]
+[2017-03-31T23:32:10,463][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-mustache]
+[2017-03-31T23:32:10,463][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [lang-painless]
+[2017-03-31T23:32:10,464][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [percolator]
+[2017-03-31T23:32:10,464][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [reindex]
+[2017-03-31T23:32:10,464][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [transport-netty3]
+[2017-03-31T23:32:10,465][INFO ][o.e.p.PluginsService     ] [SZUZuRF] loaded module [transport-netty4]
+[2017-03-31T23:32:10,466][INFO ][o.e.p.PluginsService     ] [SZUZuRF] no plugins loaded
+[2017-03-31T23:32:15,684][INFO ][o.e.n.Node               ] initialized
+[2017-03-31T23:32:15,684][INFO ][o.e.n.Node               ] [SZUZuRF] starting ...
+[2017-03-31T23:32:17,362][INFO ][o.e.t.TransportService   ] [SZUZuRF] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2017-03-31T23:32:20,431][INFO ][o.e.c.s.ClusterService   ] [SZUZuRF] new_master {SZUZuRF}{SZUZuRFIRCeflnm86OQeLQ}{iH2AoRoCTwuzS8Yp5JrgSw}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-elected-as-master ([0] nodes joined)
+[2017-03-31T23:32:20,558][INFO ][o.e.g.GatewayService     ] [SZUZuRF] recovered [0] indices into cluster_state
+[2017-03-31T23:32:21,117][INFO ][o.e.h.n.Netty4HttpServerTransport] [SZUZuRF] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2017-03-31T23:32:21,120][INFO ][o.e.n.Node               ] [SZUZuRF] started
+[2017-03-31T23:32:28,100][INFO ][o.e.c.m.MetaDataCreateIndexService] [SZUZuRF] [.kibana] creating index, cause [api], templates [], shards [1]/[1], mappings [server, config]
+[2017-03-31T23:32:33,731][INFO ][o.e.c.m.MetaDataMappingService] [SZUZuRF] [.kibana/wXn9Df-cTO-jOqDW28EGZw] create_mapping [index-pattern]
+[2017-03-31T23:53:17,436][INFO ][o.e.b.Bootstrap          ] running graceful exit on windows
+[2017-03-31T23:53:17,437][INFO ][o.e.n.Node               ] [SZUZuRF] stopping ...
+[2017-03-31T23:53:17,463][INFO ][o.e.n.Node               ] [SZUZuRF] stopped
+[2017-03-31T23:53:17,464][INFO ][o.e.n.Node               ] [SZUZuRF] closing ...
+[2017-03-31T23:53:17,471][INFO ][o.e.n.Node               ] [SZUZuRF] closed
